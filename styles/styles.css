@@ -1,11 +1,22 @@
 
 .container {
-   width: 1400px;
-   height: 3843px;
-   background-color: bisque;
-   display: flex;
-   margin-left: 40px;
-   padding-left: 20px;
-   padding-top: 10px;
-
+    width: 1400px;
+    height: 3843px;
+    margin-left: 20px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: absolute;
+    background-color: bisque;
+    
 }
+
+.nav_bar {
+    width: 1400px;
+    height: 78px;
+    position: absolute;
+    margin-left: 20px;
+    padding: 10px;
+}
+
