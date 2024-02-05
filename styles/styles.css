@@ -20,3 +20,22 @@
     padding: 10px;
 }
 
+.header {
+    width: 1126px;
+    height: 496px;
+    position: relative;
+    margin-left: 20px;
+    padding: 10px;
+    transform: translate( 145px,128px);   
+}
+
+.feature {
+    width: 1122px;
+    height: 543px;
+    position:relative;
+    margin-left: 20px;
+    padding: 10px;
+    transform: translateY(300px);
+    
+    
+}
