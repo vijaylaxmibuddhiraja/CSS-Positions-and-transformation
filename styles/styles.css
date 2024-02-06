@@ -55,3 +55,12 @@
     padding: 10px;
    transform: translate(144px, 450px);       
 }
+
+.marketers {
+    width: 1110px;
+    height: 609px ;
+    position: relative;
+    margin-left: 20px;
+    padding: 10px;
+   transform: translate(147px, 570px);   
+}
