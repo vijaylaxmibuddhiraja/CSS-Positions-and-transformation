@@ -44,8 +44,14 @@
     position: relative;
     margin-left: 20px;
     padding: 10px;
-   transform: translate(145px, 320px);
-    
-    
-   
+   transform: translate(145px, 320px);       
+}
+
+.product_man {
+    width: 1121px;
+    height: 521px ;
+    position: relative;
+    margin-left: 20px;
+    padding: 10px;
+   transform: translate(144px, 450px);       
 }
