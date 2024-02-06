@@ -64,3 +64,12 @@
     padding: 10px;
    transform: translate(147px, 570px);   
 }
+
+.footer_img {
+    width: 1109px;
+    height: 308px ;
+    position: relative;
+    margin-left: 20px;
+    padding: 10px;
+   transform: translate(160px, 650px);   
+}
