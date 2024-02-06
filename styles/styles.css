@@ -35,7 +35,14 @@
     position:relative;
     margin-left: 20px;
     padding: 10px;
-    transform: translateY(300px);
-    
-    
+    transform: translateY(250px);       
+}
+
+/*.validation {
+    width: 1110px;
+    height: 574px ;
+    position: relative;
+    margin-left: 20px;
+    padding: 10px;
+    transform: translate(145px 1397px) ;
 }
