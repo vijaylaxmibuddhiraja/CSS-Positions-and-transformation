@@ -1,25 +1,24 @@
 
 .container {
     width: 1400px;
-    height: 3843px;
-    margin-left: 20px;
+    height: 3860px;
+    margin-left: 50px;
     padding: 10px;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
     position: absolute;
-    background-color: bisque;
-    
+    background-color: bisque;   
 }
 
 .nav_bar {
     width: 1400px;
     height: 78px;
     position: absolute;
-    margin-left: 20px;
-    padding: 10px;
+    margin-left: 53px;
+    padding: 2px;
 }
-
+ 
 .header {
     width: 1126px;
     height: 496px;
