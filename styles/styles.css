@@ -1,74 +1,10 @@
 
 .container {
     width: 1400px;
-    height: 3860px;
+    height: 3843px;
     margin-left: 50px;
     padding: 10px;
     display: flex;
     flex-direction: row;
-    flex-wrap: nowrap;
-    position: absolute;
-    background-color: bisque;   
-}
-
-.nav_bar {
-    width: 1400px;
-    height: 78px;
-    position: absolute;
-    margin-left: 53px;
-    padding: 2px;
-}
- 
-.header {
-    width: 1126px;
-    height: 496px;
-    position: relative;
-    margin-left: 20px;
-    padding: 10px;
-    transform: translate( 145px,128px);   
-}
-
-.feature {
-    width: 1122px;
-    height: 543px;
-    position:relative;
-    margin-left: 20px;
-    padding: 10px;
-    transform: translateY(250px);       
-}
-
-.validation {
-    width: 1110px;
-    height: 574px ;
-    position: relative;
-    margin-left: 20px;
-    padding: 10px;
-   transform: translate(145px, 320px);       
-}
-
-.product_man {
-    width: 1121px;
-    height: 521px ;
-    position: relative;
-    margin-left: 20px;
-    padding: 10px;
-   transform: translate(144px, 450px);       
-}
-
-.marketers {
-    width: 1110px;
-    height: 609px ;
-    position: relative;
-    margin-left: 20px;
-    padding: 10px;
-   transform: translate(147px, 570px);   
-}
-
-.footer_img {
-    width: 1109px;
-    height: 308px ;
-    position: relative;
-    margin-left: 20px;
-    padding: 10px;
-   transform: translate(160px, 650px);   
+    background-color: bisque;
 }
