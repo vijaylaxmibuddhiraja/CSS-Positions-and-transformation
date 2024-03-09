@@ -18,12 +18,13 @@ header {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    margin-left: 35px;
 }
 
 ul {
     display: flex;
     list-style: none;
-    margin-left: 20px;
+    margin-left: 10px;
 }
 
 ul li {
@@ -44,13 +45,12 @@ a:hover {
 
 .btn1{
     margin-left: 20px;
-    
     text-decoration: none;  
     border-style: solid 0px #BCD0E5; 
     width: 102px;
     height: 46px;
     background-color: white;
-    /* color: #173A56; */
+     color: #173A56; 
     border-radius: 3px;
     box-shadow: none;
 }
@@ -71,7 +71,7 @@ main {
     min-height: 496px;
     justify-content: center;
     align-items: center;
-    margin-left: 10%;
+    margin-left: 12%;
     margin-top: 20px;
      
 }
@@ -79,7 +79,7 @@ main {
 .content-left {
     max-width: 518px;
     min-height: 233px;
-    padding-left: 20px;
+    padding-left: 10px;
 }
 
 h1 {
@@ -93,16 +93,19 @@ p {
     font-size: 16px;
     width: 458px;
     height: 95px;
+    padding-left: 5px;
 }
 
 .content-btn {
-    color: white;
+    
     width: 175px;
-    height: 53px;
+    min-height: 53px;
+    color: white;
     background-color: #ff9900;
     font-size: 14px;
     border-radius: 3px;
     border: none;
+    padding-left: 5px;
    
 }
 
@@ -117,41 +120,79 @@ span {
     
 }
 .content-right {
-    margin-left: 15%; 
+    margin-left: 9%; 
     padding-top: 60px;
     
 }
 
 .feature {
-    display: flex;
-    margin-top: 10%;
+    margin-top: 5%;
+}
+
+h2 {
+    margin-left: 35%;
+    padding-top: 60px;
+    width: 535px;
+    height: 108px; 
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
 }
 
 .content-feat {
-     width: 100%; 
-    min-height: 204px;
-    margin-top: 10%;
     display: flex;
+    padding-top: 8%;
+    max-width: 1095px;
+    height: 204px;
+    margin-left: 12%;
 }
-/* .arrow {
+
+h4 {
+    font-size: 18px;
+    padding-top: 20px;
+}
+
+.texts {
+    font-size: 14px;
+    padding-top: 20px;  
+    max-width: 220px; 
+    margin-left: -5px; 
+    /* justify-content: center;
+    align-items: center; */
+
+}
+
+.arrow {
     max-width: 240px;
     min-height: 178px;
-}  
+}
 
 .waves {
     max-width: 240px;
     min-height: 178px;
+    margin-left: 7%;
 }
-
 .hearts {
     max-width: 240px;
     min-height: 178px;
+    margin-left: 10%;
 }
 
 .hour-glass {
     max-width: 240px;
     min-height: 178px;
-} */
-
-
+    margin-left: 10%;
+}
+.feature-btn {
+    margin-top: 8%;
+    margin-left: 46%;
+    width: 175px;
+    height: 53px;
+    border-radius: 3px;
+    font-size: 13px;
+    font-weight: bold;
+    color: white;
+    background-color: #ff9900;
+    border: none;
+}
 
