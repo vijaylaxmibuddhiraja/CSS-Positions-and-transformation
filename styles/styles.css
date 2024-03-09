@@ -50,7 +50,8 @@ a:hover {
     width: 102px;
     height: 46px;
     background-color: white;
-     color: #173A56; 
+    color: #173A56; 
+    font-size: 15px;
     border-radius: 3px;
     box-shadow: none;
 }
@@ -60,9 +61,11 @@ a:hover {
     width: 102px;
     height: 46px;
     background-color: #ff9900;
-    color: aliceblue;
+    text-decoration: none;
     border: none;
     border-radius: 3px;
+    font-size: 15px;
+    color: aliceblue;
 }
 
 main {
@@ -97,16 +100,14 @@ p {
 }
 
 .content-btn {
-    
     width: 175px;
-    min-height: 53px;
-    color: white;
+    height: 53px;
     background-color: #ff9900;
-    font-size: 14px;
+    color:#ffff;
     border-radius: 3px;
     border: none;
-    padding-left: 5px;
-   
+    font-size: 13px;
+    font-weight: bold;  
 }
 
 .fa-sharp {
@@ -194,5 +195,51 @@ h4 {
     color: white;
     background-color: #ff9900;
     border: none;
+}
+
+.validation-content {
+    display: flex;
+    margin-top: 14%;
+}
+
+.val-L {
+    max-width: 486px;
+    min-height: 531px;
+    padding-left: 10%;
+    padding-top: 3%;
+}
+
+.h-1 {
+    padding-left: 20px;
+    font-size: 13px;
+    font-weight: 400;
+}
+.vh1 {
+   font-size: 30px;
+   font-weight: bold; 
+   padding-left: 20px;
+   padding-top: 10px;
+   max-width: 385px;
+   min-height: 54px;
+}
+.h-2 {
+   font-size: 14px;
+   padding-left: 20px;
+   padding-bottom: 5%;
+   /* padding-bottom: 30px; */
+}
+.p-1 {
+    padding-left: 20px;
+    font-size: 14px;
+    padding-bottom: 5%; 
+    
+}
+
+.val-R {
+    padding-left: 24%;
+    margin-bottom: 5%;
+}
+.val-img {
+    padding-bottom: 10%;
 }
 
