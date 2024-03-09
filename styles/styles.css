@@ -43,12 +43,14 @@ a:hover {
 }
 
 .btn1{
-    margin-left: 20px;  
+    margin-left: 20px;
+    
+    text-decoration: none;  
     border-style: solid 0px #BCD0E5; 
     width: 102px;
     height: 46px;
     background-color: white;
-    color: #173A56;
+    /* color: #173A56; */
     border-radius: 3px;
     box-shadow: none;
 }
@@ -94,12 +96,14 @@ p {
 }
 
 .content-btn {
+    color: white;
     width: 175px;
     height: 53px;
     background-color: #ff9900;
     font-size: 14px;
     border-radius: 3px;
     border: none;
+   
 }
 
 .fa-sharp {
@@ -118,6 +122,36 @@ span {
     
 }
 
+.feature {
+    display: flex;
+    margin-top: 10%;
+}
+
+.content-feat {
+     width: 100%; 
+    min-height: 204px;
+    margin-top: 10%;
+    display: flex;
+}
+/* .arrow {
+    max-width: 240px;
+    min-height: 178px;
+}  
+
+.waves {
+    max-width: 240px;
+    min-height: 178px;
+}
+
+.hearts {
+    max-width: 240px;
+    min-height: 178px;
+}
+
+.hour-glass {
+    max-width: 240px;
+    min-height: 178px;
+} */
 
 
 
