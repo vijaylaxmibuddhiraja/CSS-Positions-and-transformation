@@ -243,3 +243,56 @@ h4 {
     padding-bottom: 10%;
 }
 
+.product-content {
+    display: flex;
+    padding-top: 5%;
+    max-width: 1121px;
+    height: 521x;
+    margin-left: 10%;
+}
+
+.product-L {
+    margin-top: -5%;
+}
+
+.product-R {
+    max-width: 486px;
+    min-height: 427px;
+    margin-left: 17%;
+}
+
+.pr1 {
+    padding-left: 20px;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.pr-head {
+    font-size: 30px;
+    font-weight: bold; 
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.pro-p {
+    padding-left: 20px;
+    font-size: 14px;
+    padding-bottom: 5%; 
+    padding-top: 20px;
+}
+
+.check {
+    padding-left: 15px;
+}
+.info {
+    padding-left: 20px;
+    margin-top: -5%;
+}
+.text1 {
+    font-size: 14px;
+    padding-left: 12%;
+    max-width: 400px; 
+   
+   
+    
+}
+
