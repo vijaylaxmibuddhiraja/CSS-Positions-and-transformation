@@ -290,9 +290,57 @@ h4 {
 .text1 {
     font-size: 14px;
     padding-left: 12%;
-    max-width: 400px; 
-   
-   
-    
+    max-width: 400px;    
 }
 
+.optimisation-content {
+    display: flex; 
+    margin-top: 10%; 
+    flex-direction: column;
+    
+}
+.optimise-L {
+    display: flex;
+    /* flex-direction: column; */
+}
+.heading-opt {
+    margin-left: 11% ;
+    max-width: 486px;
+    min-height: 181px;
+    
+}
+.optimisation {
+    display: flex;
+    max-width: 1110px;
+    min-height: 609px;
+}
+.opt-L {
+    margin-top: 10%;
+    margin-left: 12%;
+    max-width: 486px;
+}
+
+.opt-h5 {
+    font-size: 13px;
+    font-weight: 500;
+    padding-left: 20px;
+}
+.opt-h {
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+.opt-p {
+    padding-left: 20px;
+    font-size: 14px;
+    padding-bottom: 5%;    
+}
+.opt-head {
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+.opt-R {
+    margin-left: 19%;
+    margin-top: 7%;
+}
