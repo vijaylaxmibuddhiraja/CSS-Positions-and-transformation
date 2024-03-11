@@ -351,3 +351,39 @@ h4 {
     margin-left: 12%;
     margin-top: 10%;
 }
+footer{
+    max-width: 1109px;
+    min-height: 308px;
+}
+.logo1 {
+    margin-top: 8%;
+    margin-left: 15%;
+}
+.navbar-foot {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+      align-items: center;     
+}
+.footer1 {
+    display: block;
+    margin-right: 8%;
+    font-size: 14px;
+    font-weight: 300;
+}
+.footer2 {
+    display: block;
+    margin-left: 35%;
+    margin-top: -9.5%;
+    font-size: 14px;
+    font-weight: 300; 
+}
+.rectangle-box {
+    width: 325px;
+    max-width: 1110px;
+    height: 45px;
+    border: 2px solid #BCD0E5;
+    margin-left: 85%;
+    margin-top: -8%;
+    padding-bottom: 10px; 
+}
