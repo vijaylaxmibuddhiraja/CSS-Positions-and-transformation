@@ -11,7 +11,7 @@ body {
     font-family: "Poppins", sans-serif;   
 }
 
-header {
+header {                          /* description of header*/
     max-width: 1400px;
     height: 78px;
     margin-top: 30px;
@@ -21,7 +21,7 @@ header {
     margin-left: 35px;
 }
 
-ul {
+ul {                                /* navigation settings */
     display: flex;
     list-style: none;
     margin-left: 10px;
@@ -43,7 +43,7 @@ a:hover {
     color: #ff9900;
 }
 
-.btn1{
+.btn1{                                       /* button section in navigation */
     margin-left: 20px;
     text-decoration: none;  
     border-style: solid 0px #BCD0E5; 
@@ -68,7 +68,7 @@ a:hover {
     color: aliceblue;
 }
 
-main {
+main {                                
     display: flex;
     max-width: 1126px;  
     min-height: 496px;
@@ -78,8 +78,7 @@ main {
     margin-top: 20px;
      
 }
-
-.content-left {
+.content-left {                       /* main heading with description settings */
     max-width: 518px;
     min-height: 233px;
     padding-left: 10px;
@@ -126,7 +125,7 @@ span {
     
 }
 
-.feature {
+.feature {                             /* settings for feature section */
     margin-top: 5%;
 }
 
@@ -197,7 +196,7 @@ h4 {
     border: none;
 }
 
-.validation-content {
+.validation-content {                /*settings for validation section */
     display: flex;
     margin-top: 14%;
 }
@@ -243,7 +242,7 @@ h4 {
     padding-bottom: 10%;
 }
 
-.product-content {
+.product-content {                              /* settings for product section */
     display: flex;
     padding-top: 5%;
     max-width: 1121px;
@@ -293,7 +292,7 @@ h4 {
     max-width: 400px;    
 }
 
-.optimisation-content {
+.optimisation-content {                       /* settings for optimisation section */
     display: flex; 
     margin-top: 10%; 
     flex-direction: column;
@@ -334,8 +333,8 @@ h4 {
 .opt-p {
     padding-left: 20px;
     font-size: 14px;
-    padding-bottom: 5%;    
-}
+    padding-top: 10px;
+} 
 .opt-head {
     padding-left: 20px;
     padding-bottom: 20px;
@@ -351,7 +350,7 @@ h4 {
     margin-left: 12%;
     margin-top: 10%;
 }
-footer{
+footer{                                          /* footer settings */
     max-width: 1109px;
     min-height: 308px;
 }
@@ -378,7 +377,7 @@ footer{
     font-size: 13px;
     font-weight: 300; 
 }
-.rectangle-box {
+.rectangle-box {                      /* rectangle empty box */
     width: 325px;
     max-width: 1110px;
     height: 45px;
@@ -387,17 +386,17 @@ footer{
     margin-top: -8%;
     padding-bottom: 10px; 
 }
-.signup-btn {
-  position:absolute;
-   max-width: 1110px;
-   margin-left: 20.5%;
-   margin-top: 15px;
-   width: 131px;
-   height: 39px;
-   background-color: #ff9900;
-   color: aliceblue;
-   border: none;
-   border-radius: 4px;
-   font-size: 13px;
-  
-}
+
+.signup-btn {                              /* sign up button for footer */
+     position:absolute; 
+     max-width: 1110px;
+     margin-left: 20.5%;
+     margin-top: 15px; 
+     width: 131px;
+     height: 39px;
+     background-color: #ff9900;
+     color: aliceblue;
+     border: none;
+     border-radius: 4px;
+     font-size: 13px;  
+ }
